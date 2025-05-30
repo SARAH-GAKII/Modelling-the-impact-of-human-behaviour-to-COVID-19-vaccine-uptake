@@ -1,24 +1,44 @@
-# Modeling the Impact of Human Behavior on COVID-19 Vaccine Uptake
+# 🧠 Modeling the Impact of Human Behavior on COVID-19 Vaccine Uptake
 
-This project was completed as part of my Master's thesis at the African Institute for Mathematical Sciences (AIMS) South Africa. It investigates how individual and collective behavior influences vaccine uptake during the COVID-19 pandemic through mathematical modeling and numerical simulations.
+This project was completed as part of my Master’s thesis at the **African Institute for Mathematical Sciences (AIMS) South Africa**. It explores how individual and collective behavior influences vaccine uptake during the COVID-19 pandemic using mathematical modeling and Python-based simulations.
 
-## 📌 Project Overview
+---
 
-- **Institution**: AIMS South Africa
-- **Author**: Sarah Gakii
-- **Advisor**: Dr. Josephine W. Kagunda
-- **Thesis Title**: Modeling the Impact of Human Behavior on COVID-19 Vaccine Uptake
-- **Tool Used**: Jupyter Notebook (Python)
-- **Focus**: Incorporating human behavior into compartmental models to study vaccine uptake dynamics
+## 📘 Project Summary
 
-## 🧮 Key Concepts
+- 🎓 **Institution**: AIMS South Africa  
+- 🧑‍🎓 **Author**: Sarah Gakii  
+- 👩‍🏫 **Advisor**: Dr. Josephine W. Kagunda  
+- 📚 **Thesis Title**: *Modeling the Impact of Human Behavior on COVID-19 Vaccine Uptake*  
+- 🛠️ **Tools**: Python (Jupyter Notebook), NumPy, Matplotlib  
 
-- Compartmental models 
-- Behavior-influenced transmission dynamics
-- Differential equations and parameter sensitivity
-- Vaccine hesitancy modeling
-- Numerical simulations using Python
+---
 
-## 📂 Contents
+## 🧮 Key Concepts & Skills
 
-- `Numerical Simulations.ipynb`: Jupyter notebook containing code, model implementation, and simulation results
+- ✅ Compartmental epidemiological models (SIR-based)
+- ✅ Incorporation of behavioral responses into transmission dynamics
+- ✅ System of nonlinear differential equations
+- ✅ Parameter sensitivity analysis
+- ✅ Numerical simulations to explore vaccine uptake trends
+
+---
+
+## 📂 Repository Contents
+
+- `Numerical Simulations.ipynb`: Jupyter notebook containing:
+  - Parameter definitions
+  - Numerical solver implementation
+  - Behavior-influenced simulations
+  - Visualizations and interpretations
+
+---
+
+## 🔍 Outcomes
+
+- Demonstrated how vaccine hesitancy can be dynamically modeled
+- Showed the effects of behavior change on vaccination uptake and disease spread
+- Provided insights into how public health campaigns might optimize impact through behavioral targeting
+
+---
+
