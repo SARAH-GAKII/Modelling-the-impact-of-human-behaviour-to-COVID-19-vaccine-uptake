@@ -44,5 +44,5 @@ This project was completed as part of my Master’s thesis at the **African Inst
 
 📄 **Official Thesis Document**  
 This project was submitted as part of a structured Master’s degree at AIMS South Africa.  
-👉 [View Full Thesis on AIMS Website](https://drive.google.com/file/d/19TXbXPjAJ3T5Eq59psV8N86TiFoCG8ht/view)
+👉 [View Full Thesis on AIMS South Africa's official archive](https://drive.google.com/file/d/19TXbXPjAJ3T5Eq59psV8N86TiFoCG8ht/view)
 
