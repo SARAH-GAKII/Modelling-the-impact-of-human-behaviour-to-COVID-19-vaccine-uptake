@@ -1,10 +1,10 @@
-# 🧠 Modeling the Impact of Human Behavior on COVID-19 Vaccine Uptake
+# Modeling the Impact of Human Behavior on COVID-19 Vaccine Uptake
 
 This project was completed as part of my Master’s thesis at the **African Institute for Mathematical Sciences (AIMS) South Africa**. It explores how individual and collective behavior influences vaccine uptake during the COVID-19 pandemic using mathematical modeling and Python-based simulations.
 
 ---
 
-## 📘 Project Summary
+## Project Summary
 
 - **Institution**: AIMS South Africa  
 - **Author**: Sarah Gakii  
@@ -14,7 +14,7 @@ This project was completed as part of my Master’s thesis at the **African Inst
 
 ---
 
-## 🧮 Key Concepts & Skills
+## Key Concepts & Skills
 
 - Compartmental epidemiological models (SIR-based)
 - Incorporation of behavioral responses into transmission dynamics
@@ -24,7 +24,7 @@ This project was completed as part of my Master’s thesis at the **African Inst
 
 ---
 
-## 📂 Repository Contents
+## Repository Contents
 
 - `Numerical Simulations.ipynb`: Jupyter notebook containing:
   - Parameter definitions
@@ -34,7 +34,7 @@ This project was completed as part of my Master’s thesis at the **African Inst
 
 ---
 
-## 🔍 Outcomes
+## Outcomes
 
 - Demonstrated how vaccine hesitancy can be dynamically modeled
 - Showed the effects of behavior change on vaccination uptake and disease spread
